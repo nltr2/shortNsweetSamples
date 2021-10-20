@@ -2,6 +2,6 @@
 
 # use case sceanrios like: Send a mail or authenticate with UAA platform.
 
-# Language used : java, (willtry to include python, node samples whereever possible)
-# Framwork : For java,most likely spring
+# Language used : java, (will try to include python, node samples where ever possible)
+# Framework : For java,most likely spring
 
